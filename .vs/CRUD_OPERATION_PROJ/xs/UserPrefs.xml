@@ -1,48 +1,42 @@
 ﻿<Properties StartupConfiguration="{8BFB9EA4-1091-425E-9278-8B43925CA6A4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD_OPERATION_PROJ/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD_OPERATION_PROJ/appsettings.json">
     <Files>
-      <File FileName="CRUD_OPERATION_PROJ/Models/Employee.cs" Line="16" Column="54" />
-      <File FileName="CRUD_OPERATION_PROJ/Data/ApplicationDbContext.cs" Line="3" Column="34" />
-      <File FileName="CRUD_OPERATION_PROJ/appsettings.json" Line="13" Column="58" />
-      <File FileName="CRUD_OPERATION_PROJ/Program.cs" Line="8" Column="1" />
-      <File FileName="CRUD_OPERATION_PROJ/Migrations/20220917120838_initialcreate.cs" Line="1" Column="1" />
-      <File FileName="CRUD_OPERATION_PROJ/Controllers/EmployeeController.cs" Line="22" Column="61" />
-      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Index.cshtml" Line="12" Column="35" />
-      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Create.cshtml" Line="18" Column="46" />
-      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Edit.cshtml" Line="45" Column="32" />
-      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Delete.cshtml" Line="29" Column="52" />
-      <File FileName="CRUD_OPERATION_PROJ/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="CRUD_OPERATION_PROJ/Views/Shared/_Layout.cshtml" Line="29" Column="157" />
+      <File FileName="CRUD_OPERATION_PROJ/Models/Employee.cs" />
+      <File FileName="CRUD_OPERATION_PROJ/Data/ApplicationDbContext.cs" />
+      <File FileName="CRUD_OPERATION_PROJ/Program.cs" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/appsettings.json" Line="17" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/Views/_ViewStart.cshtml" />
+      <File FileName="CRUD_OPERATION_PROJ/appsettings.Development.json" />
+      <File FileName="CRUD_OPERATION_PROJ/Models/ErrorViewModel.cs" />
+      <File FileName="CRUD_OPERATION_PROJ/Controllers/EmployeeController.cs" />
+      <File FileName="CRUD_OPERATION_PROJ/Controllers/HomeController.cs" />
+      <File FileName="CRUD_OPERATION_PROJ/Properties/launchSettings.json" Line="3" Column="35" />
+      <File FileName="CRUD_OPERATION_PROJ/Properties/PublishProfiles/FolderProfile.pubxml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CRUD_OPERATION_PROJ" expanded="True">
-            <Node name="CRUD_OPERATION_PROJ" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Employee" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
+            <Node name="CRUD_OPERATION_PROJ" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.CRUD__OPERATION__PROJ PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CRUD__OPERATION__PROJ PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>

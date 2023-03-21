@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joynalabedin/Documents/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj": {}
+    "/Users/joynalabedin/Documents/DotNetMVC/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj": {}
   },
   "projects": {
-    "/Users/joynalabedin/Documents/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj": {
+    "/Users/joynalabedin/Documents/DotNetMVC/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joynalabedin/Documents/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj",
+        "projectUniqueName": "/Users/joynalabedin/Documents/DotNetMVC/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj",
         "projectName": "CRUD_OPERATION_PROJ",
-        "projectPath": "/Users/joynalabedin/Documents/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj",
+        "projectPath": "/Users/joynalabedin/Documents/DotNetMVC/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ.csproj",
         "packagesPath": "/Users/joynalabedin/.nuget/packages/",
-        "outputPath": "/Users/joynalabedin/Documents/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/obj/",
+        "outputPath": "/Users/joynalabedin/Documents/DotNetMVC/Dot Net MVC/CRUD_OPERATION_PROJ/CRUD_OPERATION_PROJ/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joynalabedin/.nuget/NuGet/NuGet.Config"
@@ -38,29 +38,25 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.TagHelpers": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[7.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[7.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[7.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[7.0.3, )"
             }
           },
           "imports": [
@@ -82,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
