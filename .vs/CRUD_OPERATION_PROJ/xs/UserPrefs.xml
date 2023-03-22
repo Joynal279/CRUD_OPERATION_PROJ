@@ -1,17 +1,29 @@
 ﻿<Properties StartupConfiguration="{8BFB9EA4-1091-425E-9278-8B43925CA6A4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD_OPERATION_PROJ/appsettings.json">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.CRUD__OPERATION__PROJ PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CRUD_OPERATION_PROJ/Views/Employee/Index.cshtml">
     <Files>
       <File FileName="CRUD_OPERATION_PROJ/Models/Employee.cs" />
       <File FileName="CRUD_OPERATION_PROJ/Data/ApplicationDbContext.cs" />
       <File FileName="CRUD_OPERATION_PROJ/Program.cs" Line="1" Column="1" />
-      <File FileName="CRUD_OPERATION_PROJ/appsettings.json" Line="17" Column="1" />
-      <File FileName="CRUD_OPERATION_PROJ/Views/_ViewStart.cshtml" />
-      <File FileName="CRUD_OPERATION_PROJ/appsettings.Development.json" />
+      <File FileName="CRUD_OPERATION_PROJ/appsettings.json" Line="11" Column="60" />
+      <File FileName="CRUD_OPERATION_PROJ/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/appsettings.Development.json" Line="1" Column="1" />
       <File FileName="CRUD_OPERATION_PROJ/Models/ErrorViewModel.cs" />
       <File FileName="CRUD_OPERATION_PROJ/Controllers/EmployeeController.cs" />
       <File FileName="CRUD_OPERATION_PROJ/Controllers/HomeController.cs" />
-      <File FileName="CRUD_OPERATION_PROJ/Properties/launchSettings.json" Line="3" Column="35" />
-      <File FileName="CRUD_OPERATION_PROJ/Properties/PublishProfiles/FolderProfile.pubxml" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/Properties/launchSettings.json" />
+      <File FileName="CRUD_OPERATION_PROJ/Properties/PublishProfiles/FolderProfile.pubxml" />
+      <File FileName="CRUD_OPERATION_PROJ/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Create.cshtml" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="CRUD_OPERATION_PROJ/Views/Employee/Index.cshtml" Line="14" Column="76" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,9 +33,20 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True">
                 <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
@@ -33,10 +56,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.ItemProperties.CRUD__OPERATION__PROJ PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
